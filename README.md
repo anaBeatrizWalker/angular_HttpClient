@@ -1,3 +1,3 @@
-# angular_HttpClient
+# ngHttpClient
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-nhgeyz)
+### Angular project about HttpClient
